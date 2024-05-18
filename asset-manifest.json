@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/catFact-react-api-simpleProject/static/css/main.bba45b64.css",
+    "main.js": "/catFact-react-api-simpleProject/static/js/main.c68925bd.js",
+    "index.html": "/catFact-react-api-simpleProject/index.html",
+    "main.bba45b64.css.map": "/catFact-react-api-simpleProject/static/css/main.bba45b64.css.map",
+    "main.c68925bd.js.map": "/catFact-react-api-simpleProject/static/js/main.c68925bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bba45b64.css",
+    "static/js/main.c68925bd.js"
+  ]
+}
